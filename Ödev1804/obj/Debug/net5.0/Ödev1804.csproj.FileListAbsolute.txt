@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.exe
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.deps.json
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.runtimeconfig.json
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.dll
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\ref\Ödev1804.dll
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\bin\Debug\net5.0\Ödev1804.pdb
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.dll
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\ref\Ödev1804.dll
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.pdb
+C:\Users\Asus\source\repos\Ödev1804\Ödev1804\obj\Debug\net5.0\Ödev1804.genruntimeconfig.cache
